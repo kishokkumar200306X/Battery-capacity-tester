@@ -16,8 +16,10 @@ The Battery Capacity Tester is a digital device that allows users to measure the
    - All relevant parameters (voltage, discharge current, and capacity) are displayed on the OLED during the process.  
 
 4. **End of Test**  
-   - Two prolonged beeps indicate the end of the test when the battery voltage drops to 3.2V.  
-![Battrey capacity tester](images/implemented.png) 
+   - Two prolonged beeps indicate the end of the test when the battery voltage drops to 3.2V.
+  
+     
+![Battrey capacity tester](images/implemented.png)
 ## Features  
 - Supports a wide range of battery types:  
   - AA/AAA/NiMh/NiCd  
