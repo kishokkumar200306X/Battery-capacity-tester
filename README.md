@@ -20,7 +20,7 @@ The Battery Capacity Tester is a digital device that allows users to measure the
 
 
      
-![Battrey capacity tester]([image/implemented.png])
+![Battrey capacity tester]([image/implemeted.png])
 ## Features  
 - Supports a wide range of battery types:  
   - AA/AAA/NiMh/NiCd  
